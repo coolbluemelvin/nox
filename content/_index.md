@@ -1,6 +1,6 @@
 +++
 title = ""
-tagline = "Verjaardag Nox 🦄"
+tagline = "Verjaardag Nox"
 +++ 
 
 # 15 juni 2024
