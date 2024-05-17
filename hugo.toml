@@ -34,7 +34,7 @@ copyright = "&copy;2024 Your Name"
     [params.visual.image]
       enable = true
       file = "images/nox.jpg"
-      position = "top center"
+      position = "right top"
 
     # Video
     [params.visual.video]
