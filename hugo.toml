@@ -32,13 +32,13 @@ copyright = "&copy;2024 Your Name"
 
     # Image
     [params.visual.image]
-      enable = false
-      file = "images/background.jpg"
-      position = "center center"
+      enable = true
+      file = "images/nox.jpg"
+      position = "top center"
 
     # Video
     [params.visual.video]
-      enable = true
+      enable = false
       mute = false
       # file = "videos/nox.mp4"
       youtubeId = "Eua0CqLUHZQ"
