@@ -112,13 +112,13 @@ html {
 }
 
 body.page-template-page-fullsingle-split {
-  background-color: #ff00d0;
+  background-color: #de00bd;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 21px;
   line-height: 33px;
   letter-spacing: -0.2px;
-  color: #848d96;
+  color: #ffffff;
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
