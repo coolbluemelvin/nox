@@ -219,12 +219,10 @@ body.page-template-page-fullsingle-split p {
 .split-bio a {
   color: #ffffff;
   transition-duration: 0.5s;
-  border-bottom: 1px dotted #848d96;
 }
 .split-bio a:hover {
-  color: #CA486d;
+  color: #3b3b3b;
   transition-duration: 0.1s;
-  border-bottom: 1px dotted #CA486d;
 }
 .split-bio em,
 .split-bio i {
