@@ -40,8 +40,8 @@ copyright = "&copy;2024 Your Name"
     [params.visual.video]
       enable = true
       mute = false
-      file = "videos/nox.mp4"
-      # youtubeId = "dk9uNWPP7EA"
+      # file = "videos/nox.mp4"
+      # youtubeId = "9J62hGda9BQ"
 
   # Links
   #
